@@ -11,8 +11,8 @@ namespace DataStructures1
             int c = a + b;
             Console.WriteLine(c);
             Console.ReadLine();
-
-        }
+            
+            }
 
     }
 }
